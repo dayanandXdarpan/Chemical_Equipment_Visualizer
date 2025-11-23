@@ -1,6 +1,7 @@
 node_modules
 build
-.env
+# .env - Allow base .env file to be committed as template
+.env.local
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
