@@ -22,7 +22,7 @@ db.sqlite3-journal
 /static
 
 # Environment variables
-.env
+# .env - Allow development .env file to be committed as template
 .env.local
 .env.production
 
